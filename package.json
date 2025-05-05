@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^22.15.0"
+  },
+  "name": "reajuste-salarial",
+  "version": "1.0.0",
+  "description": "atividade01",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Douglas Komori",
+  "license": "ISC"
+}
