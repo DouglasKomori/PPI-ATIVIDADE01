@@ -11,6 +11,6 @@
         "src": "/(.*)",
         "dest": "index.js"
       }
-    ],
-    "ignoreCommand": "[ \"$VERCEL_ENV\" = \"production\" ] && exit 1 || exit 0"
+    ]
+
 }
